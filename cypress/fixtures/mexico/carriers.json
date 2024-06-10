@@ -1,0 +1,18 @@
+{
+    "carriers": [
+      "estafeta",
+      "noventa9Minutos",
+      "ups",
+      "fedex",
+      "quiken",
+      "dhl",
+      "sendex",
+      "amPm",
+      "paquetexpress",
+      "dostavista",
+      "entrega",
+      "redpack",
+      "mensajerosUrbanos",
+      "uber"
+    ]
+  }

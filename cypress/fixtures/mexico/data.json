@@ -1,0 +1,58 @@
+[ 
+  {
+    "origin": {
+      "number": "",
+      "postalCode": "66059",
+      "type": "origin",
+      "company": "envia.com",
+      "name": "Patrizzio Torres",
+      "email": "patrizzio.torres@envia.com",
+      "phone": "8120514803",
+      "country": "MX",
+      "street": "123",
+      "city": "Brownsville",
+      "state": "AG",
+      "address_id": 4229827,
+      "category": 2
+    },
+    "destination": {
+      "number": "",
+      "postalCode": "20400",
+      "type": "destination",
+      "name": "patrizzio",
+      "email": "noreply@envia.com",
+      "phone": "833749384",
+      "country": "MX",
+      "street": "jstruss",
+      "district": "Centro Histórico",
+      "city": "Rincón de Romos",
+      "state": "AG",
+      "address_id": 4216884,
+      "category": 2
+    },
+    "packages": [
+      {
+        "type": "pallet",
+        "content": "Electrónicos",
+        "amount": 1,
+        "name": "Electrónicos",
+        "declaredValue": 0,
+        "lengthUnit": "CM",
+        "weightUnit": "KG",
+        "weight": 40,
+        "dimensions": {
+          "length": 80,
+          "width": 80,
+          "height": 90
+        }
+      }
+    ],
+    "settings": {
+      "currency": "MXN"
+    },
+    "shipment": {
+      "type": 2,
+      "carrier": "estafeta"
+    }
+  }
+]

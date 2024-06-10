@@ -1,0 +1,134 @@
+{
+    "shippingMethods": {
+      "Dev": {
+        "Quote Shipment": {
+          "URL": "",
+          "Token": ""
+        },
+        "Create Label": {
+          "URL": "https://api-test.envia.com/ship/generate/",
+          "Token": "75b6356c082e3f72081c6674efabaf1447c9aa7d3d8748fdd114e5c1a4e2c781"
+        },
+        "Cancel Shipment Pick Up": {
+          "URL": "",
+          "Token": ""
+        },
+        "Tracking": {
+          "URL": "",
+          "Token": ""
+        },
+        "Create Bill of Lading": {
+          "URL": "",
+          "Token": ""
+        },
+        "Manifest": {
+          "URL": "",
+          "Token": ""
+        }
+      },
+      "Stage": {
+        "Quote Shipment": {
+          "URL": "",
+          "Token": ""
+        },
+        "Create Label": {
+          "URL": "",
+          "Token": ""
+        },
+        "Cancel Shipment Pick Up": {
+          "URL": "",
+          "Token": ""
+        },
+        "Tracking": {
+          "URL": "",
+          "Token": ""
+        },
+        "Create Bill of Lading": {
+          "URL": "",
+          "Token": ""
+        },
+        "Manifest": {
+          "URL": "",
+          "Token": ""
+        }
+      },
+      "Test": {
+        "Quote Shipment": {
+          "URL": "api-test.envia.com",
+          "Token": ""
+        },
+        "Create Label": {
+          "URL": "",
+          "Token": ""
+        },
+        "Cancel Shipment Pick Up": {
+          "URL": "",
+          "Token": ""
+        },
+        "Tracking": {
+          "URL": "",
+          "Token": ""
+        },
+        "Create Bill of Lading": {
+          "URL": "",
+          "Token": ""
+        },
+        "Manifest": {
+          "URL": "",
+          "Token": ""
+        }
+      },
+      "Preproduccion": {
+        "Quote Shipment": {
+          "URL": "",
+          "Token": ""
+        },
+        "Create Label": {
+          "URL": "",
+          "Token": ""
+        },
+        "Cancel Shipment Pick Up": {
+          "URL": "",
+          "Token": ""
+        },
+        "Tracking": {
+          "URL": "",
+          "Token": ""
+        },
+        "Create Bill of Lading": {
+          "URL": "",
+          "Token": ""
+        },
+        "Manifest": {
+          "URL": "",
+          "Token": ""
+        }
+      },
+      "Produccion": {
+        "Quote Shipment": {
+          "URL": "https://api.envia.com/ship/rate/",
+          "Token": "806f023d658bc2602d6541db0f044ff9b5cbec06b15753d99745051e62546d6d"
+        },
+        "Create Label": {
+          "URL": "",
+          "Token": ""
+        },
+        "Cancel Shipment Pick Up": {
+          "URL": "",
+          "Token": ""
+        },
+        "Tracking": {
+          "URL": "https://api.envia.com/ship/generaltrack/",
+          "Token": "null"
+        },
+        "Create Bill of Lading": {
+          "URL": "",
+          "Token": ""
+        },
+        "Manifest": {
+          "URL": "",
+          "Token": ""
+        }
+      }
+    }
+  }
