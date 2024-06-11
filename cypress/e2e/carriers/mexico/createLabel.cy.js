@@ -66,7 +66,7 @@ describe('Prueba de API - Generar envío', () => {
         url: 'https://api-test.envia.com/ship/generate/',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 75b6356c082e3f72081c6674efabaf1447c9aa7d3d8748fdd114e5c1a4e2c781'
+          'Authorization': 'Bearer c3e5086b79b9dac2f44a01818bdc30bb665c454e882a3a7879e3ab9d49e0d761'
         },
         body: requestBody
       }).then((response) => {

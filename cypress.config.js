@@ -4,6 +4,7 @@ const generate = require('mochawesome-report-generator');
 
 module.exports = defineConfig({
   e2e: {
+    projectId: "ca1d6o",
     setupNodeEvents(on, config) {
       on('after:run', async (results) => {
         try {
@@ -34,3 +35,4 @@ module.exports = defineConfig({
     }
   }
 });
+

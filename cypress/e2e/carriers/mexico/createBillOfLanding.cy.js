@@ -1,5 +1,5 @@
 describe('Envia Bill of Lading API Test', () => {
-  const token = 'ab835cd110f13b4950e9c05c6971923489e56cc358b1014b5c0409ba8683764f';
+  const token = 'c3e5086b79b9dac2f44a01818bdc30bb665c454e882a3a7879e3ab9d49e0d761';
 
   it('should create a bill of lading and verify the response', () => {
       cy.request({
